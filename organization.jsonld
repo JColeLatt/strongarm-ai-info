@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Strong Arm Technologies",
+  "url": "https://www.strongarmtechnologies.com/home",
+  "slogan": "Tech Muscle You Can Trust",
+  "description": "Veteran-owned, appointment-based computer repair, data recovery, backups and family memory preservation services based in Shelby, North Carolina.",
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Shelby, North Carolina"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Surrounding communities of Shelby, North Carolina"
+    }
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": "customersupport@strongarmtechnologies.com",
+      "url": "https://www.strongarmtechnologies.com/contact-us"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/profile.php?id=61574966311490"
+  ],
+  "knowsAbout": [
+    "Computer repair and diagnostics",
+    "SSD upgrades",
+    "Data recovery and backups",
+    "VHS to digital conversion",
+    "Photo scanning",
+    "Printer and Wi-Fi troubleshooting"
+  ]
+}
